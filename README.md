@@ -1,5 +1,7 @@
 # NQForexSage – IsaKai’s AI Trading Bot
 
+![IsaKai Logo](assets/logo.png)
+
 NQForexSage is IsaKai Holdings’ **sovereign AI trading bot** for **NASDAQ futures (NQ) and Forex markets**.
 
 ---
